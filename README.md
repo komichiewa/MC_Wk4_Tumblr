@@ -15,4 +15,4 @@ Optional:
 	•	Discover bubble bobs up and down unless SearchViewController is tapped<br>
 
 Walkthrough of all user stories:<br><br>
-![]()
+![](http://i.imgur.com/5YsshmR.gif)
